@@ -1,0 +1,28 @@
+.site-footer {
+    background-color: var(--footer-bg);
+    color: #999;
+    padding: 40px 20px;
+    text-align: center;
+    margin-top: auto;
+}
+
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.site-footer p {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+.site-footer a {
+    color: #ccc;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.site-footer a:hover {
+    color: #fff;
+    text-decoration: underline;
+}

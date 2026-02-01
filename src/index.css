@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i&display=swap');
+
+:root {
+  --header-bg: #5f9ea0;
+  /* Teal/Cadet blue - matching original */
+  --footer-bg: #5f9ea0;
+  --text-color: #333;
+  --link-color: #5f9ea0;
+  --title-color: #5f9ea0;
+  /* Teal for page titles */
+  --bg-color: #ffffff;
+  --nav-text-color: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+  color: var(--link-color);
+  transition: color 0.2s;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style: none;
+}
+
+/* Layout utilities */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.main-content {
+  min-height: 80vh;
+  padding: 40px 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
