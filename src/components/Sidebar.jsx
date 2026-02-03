@@ -44,10 +44,6 @@ const Sidebar = () => {
                     </a>
                 </div>
             </div>
-
-            <div className="sidebar-footer">
-                <p>&copy; {new Date().getFullYear()} Shahid Majeed Dar.</p>
-            </div>
         </div>
     );
 };
