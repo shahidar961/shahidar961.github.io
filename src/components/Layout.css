@@ -29,7 +29,7 @@
     margin: 0 auto;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 768px) {
     .app-layout {
         flex-direction: column;
     }
@@ -48,6 +48,22 @@
     }
 
     .main-content {
-        padding: 2rem 1rem;
+        padding: 1.5rem 1rem;
+    }
+}
+
+/* Tablet breakpoint */
+@media (min-width: 769px) and (max-width: 900px) {
+    .sidebar {
+        width: 250px;
+    }
+
+    .main-wrapper {
+        margin-left: 250px;
+        width: calc(100% - 250px);
+    }
+
+    .main-content {
+        padding: 2rem;
     }
 }
