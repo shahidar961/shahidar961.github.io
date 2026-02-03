@@ -33,9 +33,15 @@ const Sidebar = () => {
                     <span className="toggle-icon">▼</span>
                 </button>
                 <div className={`social-links ${isConnectOpen ? 'show' : ''}`}>
-                    <a href="https://github.com/shahidar961" target="_blank" rel="noopener noreferrer">GitHub</a>
-                    <a href="https://www.linkedin.com/in/shahid-majeed-1641731b2/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-                    <a href="#" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+                    <a href="https://github.com/shahidar961" target="_blank" rel="noopener noreferrer">
+                        <i className="fab fa-github"></i> GitHub
+                    </a>
+                    <a href="https://www.linkedin.com/in/shahid-majeed-1641731b2/" target="_blank" rel="noopener noreferrer">
+                        <i className="fab fa-linkedin"></i> LinkedIn
+                    </a>
+                    <a href="#" target="_blank" rel="noopener noreferrer">
+                        <i className="fas fa-graduation-cap"></i> Google Scholar
+                    </a>
                 </div>
             </div>
 

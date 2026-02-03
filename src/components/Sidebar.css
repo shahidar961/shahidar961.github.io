@@ -95,6 +95,15 @@
     color: var(--primary-color);
     text-decoration: none;
     transition: color 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.social-links a i {
+    font-size: 1.1rem;
+    width: 1.2rem;
+    text-align: center;
 }
 
 .social-links a:hover {
