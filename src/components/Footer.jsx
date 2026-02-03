@@ -5,7 +5,8 @@ const Footer = () => {
     return (
         <footer className="site-footer">
             <div className="footer-container">
-                <p>Get in touch at <a href="mailto:shahid.dar@ddn.upes.ac.in">shahid.dar@ddn.upes.ac.in</a></p>
+                <p>&copy; {new Date().getFullYear()} Shahid Majeed Dar</p>
+                <p className="developer-credit">Developed by Asif Nazir Bhat</p>
             </div>
         </footer>
     );
