@@ -30,7 +30,7 @@ const Research = () => {
                     <p className="paper-description">
                         2. <strong>Low fertility Incentives and Child Mortality in Low-Resource Settings</strong> (with Sukumar Vellakkal) <br />
                         <em>Under Review, Economic Modelling</em> [ABDC Journal Ranking: A]. <br />
-                        [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4615020" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
+                        [<a href="https://iitk-my.sharepoint.com/:w:/g/personal/shahidar_iitk_ac_in/EZKA-IEGEd5Ii341hg7PHIMBaIJO4V-01u6vAb5ROrzEzw?e=6seFgx" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
                     </p>
                 </div>
 
