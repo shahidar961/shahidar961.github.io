@@ -6,15 +6,19 @@ const CV = () => {
         <div className="page-container">
             <h1 className="page-title">CV</h1>
 
-            <div className="cv-button-container">
-                <a
-                    href="/My_CV.pdf"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="cv-button"
+            <div className="cv-container" style={{ height: 'calc(100vh - 200px)', minHeight: '600px' }}>
+                <iframe
+                    src="/My_CV.pdf"
+                    width="100%"
+                    height="100%"
+                    style={{ border: 'none' }}
+                    title="Curriculum Vitae"
                 >
-                    CV
-                </a>
+                    <p>
+                        Your browser does not support PDFs.
+                        <a href="/My_CV.pdf">Download the PDF</a>.
+                    </p>
+                </iframe>
             </div>
         </div>
     );

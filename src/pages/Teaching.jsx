@@ -7,56 +7,46 @@ const Teaching = () => {
             <h1 className="page-title">Teaching</h1>
 
             <div className="content-section">
-                <h2>Instructor:</h2>
+                <h2>University of Petroleum and Energy Studies, Dehradun</h2>
+
                 <table className="teaching-table">
                     <tbody>
                         <tr>
-                            <td>Development Economics, UPES Dehradun</td>
-                            <td>Fall 2025</td>
+                            <td>Microeconomics</td>
+                            <td>Winter 2025</td>
                         </tr>
                         <tr>
-                            <td>Basic Statistics, UPES Dehradun</td>
-                            <td>Fall 2025</td>
+                            <td>Macroeconomics</td>
+                            <td>Autumn 2024</td>
                         </tr>
                     </tbody>
                 </table>
             </div>
 
             <div className="content-section">
-                <h2>Tutor:</h2>
-                <table className="teaching-table">
-                    <tbody>
-                        <tr>
-                            <td>Economics of Banking and Financial Markets</td>
-                            <td>NPTEL, 2022, 2023, 2024</td>
-                        </tr>
-                        <tr>
-                            <td>Intermediate Macroeconomics, IIT Kanpur</td>
-                            <td>Fall 2022</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
+                <h2>Indian Institute of Technology Kanpur (TA)</h2>
 
-            <div className="content-section">
-                <h2>Teaching Assistant:</h2>
                 <table className="teaching-table">
                     <tbody>
                         <tr>
-                            <td>Intermediate Microeconomics, IIT Kanpur</td>
-                            <td>Spring 2022</td>
+                            <td>ECO261A: Health Economics (Instructor: Prof. Deep Mukherjee)</td>
+                            <td>2022-23-II</td>
                         </tr>
                         <tr>
-                            <td>Money and Banking, IIT Kanpur</td>
-                            <td>Fall 2023</td>
+                            <td>ECO502A: Applied Econometrics (Instructor: Prof. Mahamitra Das)</td>
+                            <td>2022-23-I</td>
                         </tr>
                         <tr>
-                            <td>Macroeconomics-I, IIT Kanpur</td>
-                            <td>Spring 2023</td>
+                            <td>ECO311A: Development Economics (Instructor: Prof. Debayan Pakrashi)</td>
+                            <td>2021-22-I</td>
                         </tr>
                         <tr>
-                            <td>Empirical Methods in Health Economics and Public Policy, IIT Kanpur</td>
-                            <td>Fall 2024</td>
+                            <td>ECO101A: Introduction to Economics (Instructor: Prof. Praveen Kulshreshtha)</td>
+                            <td>2018-19-II</td>
+                        </tr>
+                        <tr>
+                            <td>ECO101A: Introduction to Economics (Instructor: Prof. Vimal Kumar)</td>
+                            <td>2018-19-I</td>
                         </tr>
                     </tbody>
                 </table>
