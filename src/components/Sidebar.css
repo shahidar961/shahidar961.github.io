@@ -149,6 +149,6 @@
     }
 
     .sidebar-footer {
-        margin-top: 1rem;
+        display: none;
     }
 }

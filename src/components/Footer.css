@@ -26,3 +26,14 @@
     color: #fff;
     text-decoration: underline;
 }
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+    .site-footer {
+        padding: 20px 15px;
+    }
+
+    .site-footer p {
+        font-size: 0.85rem;
+    }
+}
