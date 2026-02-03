@@ -10,7 +10,7 @@ const Research = () => {
                     <p className="paper-description">
                         1. <strong>Usage and Impact of Toilets: Evidence from Swachh Bharat Mission in India</strong> (with Sukumar Vellakkal) <br />
                         <em>Economic Analysis and Policy</em> (Elsevier, Scopus Q1, ABDC A). <br />
-                        [<a href="#" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
+                        [<a href="https://doi.org/10.1016/j.eap.2025.10.048" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
                     </p>
                 </div>
             </div>
@@ -22,7 +22,7 @@ const Research = () => {
                     <p className="paper-description">
                         1. <strong>Ban and Benefit: Effects of Alcohol Ban on Child Nutrition</strong> (with Sukumar Vellakkal) <br />
                         <em>Under Review, The BE Journal of Economic Analysis and Policy</em> [ABDC Journal Ranking: A]. <br />
-                        [<a href="#" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
+                        [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5711562" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
                     </p>
                 </div>
 
@@ -30,7 +30,7 @@ const Research = () => {
                     <p className="paper-description">
                         2. <strong>Low fertility Incentives and Child Mortality in Low-Resource Settings</strong> (with Sukumar Vellakkal) <br />
                         <em>Under Review, Economic Modelling</em> [ABDC Journal Ranking: A]. <br />
-                        [<a href="#" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
+                        [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4615020" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
                     </p>
                 </div>
 
@@ -45,7 +45,7 @@ const Research = () => {
                     <p className="paper-description">
                         4. <strong>Dry State and Fertility: Unintended Effects of Alcohol Ban in Bihar</strong> (with Sukumar Vellakkal) <br />
                         <em>Under Review, Journal of Population Economics</em> [ABDC Journal Ranking: A*]. <br />
-                        [<a href="#" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
+                        [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5221412" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
                     </p>
                 </div>
             </div>
