@@ -1,7 +1,14 @@
+import { useState } from 'react';
 import Photo from '../assets/Photo.png';
 import './Sidebar.css';
 
 const Sidebar = () => {
+    const [isConnectOpen, setIsConnectOpen] = useState(false);
+
+    const toggleConnect = () => {
+        setIsConnectOpen(!isConnectOpen);
+    };
+
     return (
         <div className="sidebar">
             <div className="profile-container">
@@ -17,8 +24,15 @@ const Sidebar = () => {
             </div>
 
             <div className="sidebar-social">
-                <h3>Connect</h3>
-                <div className="social-links">
+                <button
+                    className={`connect-toggle ${isConnectOpen ? 'open' : ''}`}
+                    onClick={toggleConnect}
+                    aria-expanded={isConnectOpen}
+                >
+                    Connect
+                    <span className="toggle-icon">▼</span>
+                </button>
+                <div className={`social-links ${isConnectOpen ? 'show' : ''}`}>
                     <a href="https://github.com/shahidar961" target="_blank" rel="noopener noreferrer">GitHub</a>
                     <a href="https://www.linkedin.com/in/shahid-majeed-1641731b2/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                     <a href="#" target="_blank" rel="noopener noreferrer">Google Scholar</a>
@@ -33,3 +47,4 @@ const Sidebar = () => {
 };
 
 export default Sidebar;
+
