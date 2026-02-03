@@ -20,7 +20,7 @@ const Sidebar = () => {
                 <h3>Connect</h3>
                 <div className="social-links">
                     <a href="https://github.com/shahidar961" target="_blank" rel="noopener noreferrer">GitHub</a>
-                    <a href="#" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/shahid-majeed-1641731b2/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                     <a href="#" target="_blank" rel="noopener noreferrer">Google Scholar</a>
                 </div>
             </div>
