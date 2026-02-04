@@ -8,7 +8,7 @@ const CV = () => {
 
             <div className="cv-container" style={{ height: 'calc(100vh - 200px)', minHeight: '600px' }}>
                 <iframe
-                    src="/My_CV.pdf"
+                    src="/Shahid_CV.pdf"
                     width="100%"
                     height="100%"
                     style={{ border: 'none' }}
@@ -16,7 +16,7 @@ const CV = () => {
                 >
                     <p>
                         Your browser does not support PDFs.
-                        <a href="/My_CV.pdf">Download the PDF</a>.
+                        <a href="/Shahid_CV.pdf">Download the PDF</a>.
                     </p>
                 </iframe>
             </div>

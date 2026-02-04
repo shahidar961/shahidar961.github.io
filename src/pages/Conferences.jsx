@@ -8,8 +8,10 @@ const Conferences = () => {
 
             <div className="content-section">
                 <div className="year-section">
-                    <p className="year-title"><strong>2022:</strong></p>
-                    <p>Second Biennial Conference on Development (IGIDR).</p>
+                    <p className="year-title"><strong>2025:</strong></p>
+                    <p>
+                        6th Annual Economics Conference (Ahmedabad University), 2nd Meeting of Young Minds in Frontiers of Economics (IITB), AYEW Gender & Development Economics Workshop (Virtual).
+                    </p>
                 </div>
 
                 <div className="year-section">
@@ -20,10 +22,8 @@ const Conferences = () => {
                 </div>
 
                 <div className="year-section">
-                    <p className="year-title"><strong>2025:</strong></p>
-                    <p>
-                        6th Annual Economics Conference (Ahmedabad University), 2nd Meeting of Young Minds in Frontiers of Economics (IITB), AYEW Gender & Development Economics Workshop (Virtual).
-                    </p>
+                    <p className="year-title"><strong>2022:</strong></p>
+                    <p>Second Biennial Conference on Development (IGIDR).</p>
                 </div>
             </div>
         </div>

@@ -8,7 +8,7 @@ const Research = () => {
 
                 <div className="paper-item">
                     <p className="paper-description">
-                        1. <strong>Usage and Impact of Toilets: Evidence from Swachh Bharat Mission in India</strong> (with Sukumar Vellakkal) <br />
+                        1. <strong>Usage and Health Impact of Toilets: Evidence from a Nationwide Sanitation Program in India</strong> (with Sukumar Vellakkal) <br />
                         <em>Economic Analysis and Policy</em> (Elsevier, Scopus Q1, ABDC A). <br />
                         [<a href="https://doi.org/10.1016/j.eap.2025.10.048" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
                     </p>
@@ -30,7 +30,7 @@ const Research = () => {
                     <p className="paper-description">
                         2. <strong>Low fertility Incentives and Child Mortality in Low-Resource Settings</strong> (with Sukumar Vellakkal) <br />
                         <em>Under Review, Economic Modelling</em> [ABDC Journal Ranking: A]. <br />
-                        [<a href="https://iitk-my.sharepoint.com/:w:/g/personal/shahidar_iitk_ac_in/EZKA-IEGEd5Ii341hg7PHIMBaIJO4V-01u6vAb5ROrzEzw?e=6seFgx" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
+                        [<a href="https://iitk-my.sharepoint.com/:w:/g/personal/shahidar_iitk_ac_in/IQAoO6HMtlNjQZLU50uVj_NTAcF822hDtL6hq_T9_SFHJfM?e=1SiiQy" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
                     </p>
                 </div>
 
