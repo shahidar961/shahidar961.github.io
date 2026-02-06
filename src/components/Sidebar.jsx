@@ -39,10 +39,10 @@ const Sidebar = () => {
                     <a href="https://www.linkedin.com/in/shahid-majeed-1641731b2/" target="_blank" rel="noopener noreferrer">
                         <i className="fab fa-linkedin"></i> LinkedIn
                     </a>
-                    <a href="https://x.com/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://x.com/SHAHIDM03793752" target="_blank" rel="noopener noreferrer">
                         <i className="fab fa-x-twitter"></i> Twitter
                     </a>
-                    <a href="https://scholar.google.com/citations?user=mi0nnGsAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+                    <a href="https://scholar.google.com/citations?hl=en&user=7ioMi0sAAAAJ" target="_blank" rel="noopener noreferrer">
                         <i className="fas fa-graduation-cap"></i> Google Scholar
                     </a>
                 </div>
