@@ -5,8 +5,9 @@ const Home = () => {
     return (
         <div className="page-container">
             <div className="home-content">
-                <h1 className="welcome-title">Welcome</h1>
+
                 <p>
+
                     I am an Assistant Professor in the Department of Liberal Studies & Media at <a href="https://www.upes.ac.in/" target="_blank" rel="noopener noreferrer">UPES Dehradun</a>. I completed my Ph.D. in Economics from the Department of Economic Sciences, <a href="https://www.iitk.ac.in/" target="_blank" rel="noopener noreferrer">Indian Institute of Technology Kanpur</a>.
                 </p>
                 <p>
@@ -15,23 +16,6 @@ const Home = () => {
                 <p>
                     Methodologically, my work relies on large-scale micro-level data, including nationally representative and longitudinal surveys. I employ modern causal inference techniques to identify policy impacts and uncover mechanisms through which public interventions influence health, fertility, and socioeconomic outcomes.
                 </p>
-                <p>
-                    You can reach me at <a href="mailto:shahid.dar@ddn.upes.ac.in">shahid.dar@ddn.upes.ac.in</a> and <a href="mailto:shahidar961@gmail.com">shahidar961@gmail.com</a>
-                </p>
-
-
-
-                <div className="content-section">
-                    <h2>Awards and Grants</h2>
-                    <ul>
-                        <li>National Eligibility Test (NET) 2018.</li>
-                        <li>Travel grant award for 15th annual Congress by International Health Economics Association (IHEA).</li>
-                        <li>Travel grant award for the 7th Annual CECFEE research and policy workshop (ISI).</li>
-                        <li>Travel grant award for 2nd Meeting of Young Minds in Frontiers of Economics (IITB).</li>
-                        <li>Institute fellowship for Ph.D. 2020-2024 (IIT, Kanpur).</li>
-                    </ul>
-                </div>
-
                 <div className="content-section">
                     <h2>Area of Interest</h2>
                     <p>
@@ -40,10 +24,10 @@ const Home = () => {
                     </p>
                 </div>
 
-                <div className="content-section">
-                    <h2>Empirical Skills</h2>
-                    <p>Stata, R studio, Microsoft, Latex.</p>
-                </div>
+                <p>
+                    You can reach me at <a href="mailto:shahid.dar@ddn.upes.ac.in">shahid.dar@ddn.upes.ac.in</a> and <a href="mailto:shahidar961@gmail.com">shahidar961@gmail.com</a>
+                </p>
+
             </div>
         </div>
     );
