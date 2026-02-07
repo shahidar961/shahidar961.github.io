@@ -1,10 +1,10 @@
 import React from 'react';
 import './pages.css';
 
-const Home = () => {
+const About = () => {
     return (
         <div className="page-container">
-            <div className="home-content">
+            <div className="about-content">
 
                 <p>
 
@@ -33,4 +33,4 @@ const Home = () => {
     );
 };
 
-export default Home;
+export default About;

@@ -26,7 +26,7 @@ const Header = () => {
                 <span></span>
             </button>
             <ul className={isMenuOpen ? 'nav-open' : ''}>
-                <li><Link to="/" className={location.pathname === '/' ? 'active' : ''} onClick={closeMenu}>Home</Link></li>
+                <li><Link to="/" className={location.pathname === '/' ? 'active' : ''} onClick={closeMenu}>About</Link></li>
                 <li><Link to="/education" className={location.pathname === '/education' ? 'active' : ''} onClick={closeMenu}>Education</Link></li>
                 <li><Link to="/research" className={location.pathname === '/research' ? 'active' : ''} onClick={closeMenu}>Research</Link></li>
                 <li><Link to="/conferences" className={location.pathname === '/conferences' ? 'active' : ''} onClick={closeMenu}>Conferences</Link></li>
