@@ -5,8 +5,8 @@ const Footer = () => {
     return (
         <footer className="site-footer">
             <div className="footer-container">
-                <p>&copy; {new Date().getFullYear()} Shahid Majeed Dar</p>
-                <p className="developer-credit">Developed by Asif Nazir Bhat</p>
+                {/* <p>&copy; {new Date().getFullYear()} Shahid Majeed Dar</p>
+                <p className="developer-credit">Developed by Asif Nazir Bhat</p> */}
             </div>
         </footer>
     );
