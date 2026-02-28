@@ -31,7 +31,7 @@ const Header = () => {
                 <li><Link to="/research" className={location.pathname === '/research' ? 'active' : ''} onClick={closeMenu}>Research</Link></li>
                 <li><Link to="/conferences" className={location.pathname === '/conferences' ? 'active' : ''} onClick={closeMenu}>Conferences</Link></li>
                 <li><Link to="/teaching" className={location.pathname === '/teaching' ? 'active' : ''} onClick={closeMenu}>Teaching</Link></li>
-                <li><Link to="/cv" className={location.pathname === '/cv' ? 'active' : ''} onClick={closeMenu}>CV</Link></li>
+                <li><a href="/Shahid_CV.pdf" target="_blank" rel="noopener noreferrer" onClick={closeMenu}>CV</a></li>
             </ul>
         </nav>
     );
