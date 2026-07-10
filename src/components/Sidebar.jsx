@@ -19,7 +19,7 @@ const Sidebar = () => {
                 <p className="profile-title">Assistant Professor</p>
                 <div className="profile-contact">
                     <p><i className="fas fa-envelope"></i> shahid.dar@ddn.upes.ac.in</p>
-                    <p><i className="fas fa-map-marker-alt"></i> Dehradun, India</p>
+                    <p><i className="fas fa-map-marker-alt"></i> Gandhinagar, India</p>
                 </div>
             </div>
 

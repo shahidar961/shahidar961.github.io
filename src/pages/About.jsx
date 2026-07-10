@@ -7,8 +7,13 @@ const About = () => {
             <div className="about-content">
 
                 <p>
-
-                    I am an Assistant Professor in the Department of Liberal Studies & Media at <a href="https://www.upes.ac.in/" target="_blank" rel="noopener noreferrer">UPES Dehradun</a>. I completed my Ph.D. in Economics from the Department of Economic Sciences, <a href="https://www.iitk.ac.in/" target="_blank" rel="noopener noreferrer">Indian Institute of Technology Kanpur</a>.
+                    Hi, I am Shahid Majeed. I am currently working as an Assistant Professor at the School of Technology, <a href="https://dau.ac.in/" target="_blank" rel="noopener noreferrer">Dhirubhai Ambani University (DAU)</a>, Gandhinagar, Gujarat, India.
+                </p>
+                <p>
+                    Previously, I worked as an Assistant Professor in the Department of Liberal Studies & Media at <a href="https://www.upes.ac.in/" target="_blank" rel="noopener noreferrer">UPES Dehradun</a>.
+                </p>
+                <p>
+                    I completed my Ph.D. in Economics from the Department of Economic Sciences, <a href="https://www.iitk.ac.in/" target="_blank" rel="noopener noreferrer">Indian Institute of Technology Kanpur</a>.
                 </p>
                 <p>
                     My research lies at the intersection of development economics and health economics, leveraging public policy and regulatory interventions as empirical settings. I study how targeted public policies shape individual behaviour and household decisions, with a particular focus on strengthening human capital and improving overall well-being in developing countries.
