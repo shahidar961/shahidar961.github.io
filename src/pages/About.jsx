@@ -7,7 +7,7 @@ const About = () => {
             <div className="about-content">
 
                 <p>
-                    Hi, I am Shahid Majeed. I am currently working as an Assistant Professor at the School of Technology, <a href="https://dau.ac.in/" target="_blank" rel="noopener noreferrer">Dhirubhai Ambani University (DAU)</a>, Gandhinagar, Gujarat, India.
+                    Hi, I am Shahid Majeed Dar, currently working as an Assistant Professor at <a href="https://dau.ac.in/" target="_blank" rel="noopener noreferrer">Dhirubhai Ambani University (DAU) - School of Technology</a>, Gandhinagar, Gujarat, India.
                 </p>
                 <p>
                     Previously, I worked as an Assistant Professor in the Department of Liberal Studies & Media at <a href="https://www.upes.ac.in/" target="_blank" rel="noopener noreferrer">UPES Dehradun</a>.
@@ -30,7 +30,7 @@ const About = () => {
                 </div>
 
                 <p>
-                    You can reach me at <a href="mailto:shahid.dar@ddn.upes.ac.in">shahid.dar@ddn.upes.ac.in</a> and <a href="mailto:shahidar961@gmail.com">shahidar961@gmail.com</a>
+                    You can reach me at <a href="mailto:shahid_majeeddar@dau.ac.in">shahid_majeeddar@dau.ac.in</a> and <a href="mailto:shahidar961@gmail.com">shahidar961@gmail.com</a>
                 </p>
 
             </div>
