@@ -13,6 +13,14 @@ const Research = () => {
                         [<a href="https://doi.org/10.1016/j.eap.2025.10.048" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
                     </p>
                 </div>
+
+                <div className="paper-item">
+                    <p className="paper-description">
+                        2. <strong>Ban and Benefit: Effects of Alcohol Ban on Child Nutrition</strong> (with Sukumar Vellakkal) <br />
+                        <em>The B.E. Journal of Economic Analysis &amp; Policy</em> (Scopus Q2, ABDC A). <br />
+                        [<a href="https://doi.org/10.1515/bejeap-2025-0390" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
+                    </p>
+                </div>
             </div>
 
             <div className="content-section">
@@ -20,9 +28,9 @@ const Research = () => {
 
                 <div className="paper-item">
                     <p className="paper-description">
-                        1. <strong>Ban and Benefit: Effects of Alcohol Ban on Child Nutrition</strong> (with Sukumar Vellakkal) <br />
-                        <em>Under Review, The BE Journal of Economic Analysis and Policy</em> [ABDC Journal Ranking: A]. <br />
-                        [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5711562" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
+                        1. <strong>Dry State and Fertility: Unintended Effects of Alcohol Ban in Bihar</strong> (with Sukumar Vellakkal) <br />
+                        <em>Under Review, Journal of Population Economics</em> [ABDC Journal Ranking: A*]. <br />
+                        [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5221412" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
                     </p>
                 </div>
 
@@ -38,14 +46,6 @@ const Research = () => {
                     <p className="paper-description">
                         3. <strong>Impact of Tap Water Access on Water Sufficiency, Affordability, and Health in India</strong> (with Sukumar Vellakkal and Abhishek Kumar) <br />
                         <em>Under Review, Journal of Quantitative Economics</em> [ABDC Journal Ranking: B].
-                    </p>
-                </div>
-
-                <div className="paper-item">
-                    <p className="paper-description">
-                        4. <strong>Dry State and Fertility: Unintended Effects of Alcohol Ban in Bihar</strong> (with Sukumar Vellakkal) <br />
-                        <em>Under Review, Journal of Population Economics</em> [ABDC Journal Ranking: A*]. <br />
-                        [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5221412" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
                     </p>
                 </div>
             </div>
