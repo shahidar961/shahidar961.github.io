@@ -19,7 +19,7 @@ const Sidebar = () => {
                 <p className="profile-title">Assistant Professor</p>
                 <div className="profile-contact">
                     <p><i className="fas fa-envelope"></i> shahid_majeeddar@dau.ac.in</p>
-                    <p><i className="fas fa-phone"></i> Tel +91-079-6826-1759</p>
+                    <p><i className="fas fa-phone"></i> Tel +91-79-6826-1759</p>
                     <p><i className="fas fa-map-marker-alt"></i> Gandhinagar, India</p>
                 </div>
             </div>
