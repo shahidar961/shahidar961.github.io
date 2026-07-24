@@ -29,7 +29,7 @@ const Research = () => {
                 <div className="paper-item">
                     <p className="paper-description">
                         1. <strong>Dry State and Fertility: Unintended Effects of Alcohol Ban in Bihar</strong> (with Sukumar Vellakkal) <br />
-                        <em>Under Review, Journal of Population Economics</em> [ABDC Journal Ranking: A*]. <br />
+                        <em>Revise & Resubmit, Journal of Population Economics</em> [Scopus Q1, ABDC A*]. <br />
                         [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5221412" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
                     </p>
                 </div>
@@ -37,7 +37,7 @@ const Research = () => {
                 <div className="paper-item">
                     <p className="paper-description">
                         2. <strong>Low fertility Incentives and Child Mortality in Low-Resource Settings</strong> (with Sukumar Vellakkal) <br />
-                        <em>Under Review, Economic Modelling</em> [ABDC Journal Ranking: A]. <br />
+                        <em>Under Review, Health Economics</em> [Scopus Q1, ABDC A*]. <br />
                         [<a href="https://iitk-my.sharepoint.com/:w:/g/personal/shahidar_iitk_ac_in/IQAoO6HMtlNjQZLU50uVj_NTAcF822hDtL6hq_T9_SFHJfM?e=1SiiQy" target="_blank" rel="noopener noreferrer">Link to PDF</a>]
                     </p>
                 </div>
