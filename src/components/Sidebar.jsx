@@ -18,8 +18,8 @@ const Sidebar = () => {
                 <h2 className="profile-name">Shahid Majeed Dar</h2>
                 <p className="profile-title">Assistant Professor</p>
                 <div className="profile-contact">
-                    <p><i className="fas fa-envelope"></i> shahid_majeeddar@dau.ac.in</p>
-                    <p><i className="fas fa-phone"></i> Tel +91-79-6826-1759</p>
+                    <p><i className="fas fa-envelope"></i> <a href="mailto:shahid_majeeddar@dau.ac.in">shahid_majeeddar@dau.ac.in</a></p>
+                    <p><i className="fas fa-phone"></i> Tel <a href="tel:+917968261759">+91-79-6826-1759</a></p>
                     <p><i className="fas fa-map-marker-alt"></i> Gandhinagar, India</p>
                 </div>
             </div>
